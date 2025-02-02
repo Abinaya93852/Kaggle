@@ -3,8 +3,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 
 Sample Dataset :- https://www.kaggle.com/c/titanic/data
 
-ChatGPT said:
-ChatGPT
+
 To perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset, follow these steps:
 
 1. Data Cleaning:
